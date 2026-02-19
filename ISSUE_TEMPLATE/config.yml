@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: bsmartlabs/projects (Issue Tracker)
+    url: https://github.com/bsmartlabs/projects/issues/new/choose
+    about: Apri qui tutte le segnalazioni. Le issue nei repository applicativi non sono consentite.
