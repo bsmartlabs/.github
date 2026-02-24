@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/bsmartlabs/projects/issues/new/choose
     about: Apri qui tutte le segnalazioni. Le issue nei repository applicativi non sono consentite.
   - name: bsmartlabs/projects-takai (Issue Tracker Mobile)
-    url: https://github.com/bsmartlabs/projects-takai/issues/new/choose
-    about: Apri qui i ticket iOS/Android gestiti dal team esterno Takai.
+    url: https://github.com/bsmartlabs/projects-takai/issues
+    about: Consulta e apri qui i ticket iOS/Android gestiti dal team esterno Takai.
